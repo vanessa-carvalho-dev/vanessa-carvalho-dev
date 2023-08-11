@@ -3,8 +3,6 @@
 
 ### Sobre mim
 
- 👩‍💻 Desenvolvedora de Software Back-end na Cubos Academy
-
  🎓 Graduando em  Análise e Desenvolvimento de Sistemas no IFPE
 
 
